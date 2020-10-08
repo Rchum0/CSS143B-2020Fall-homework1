@@ -1,5 +1,11 @@
 public class Problem2 {
 
+    /**
+     * Here are some of the websites I referenced from.
+     * https://stackabuse.com/bubble-sort-in-java/
+     * https://www.geeksforgeeks.org/bubble-sort/
+     * https://stackoverflow.com/questions/11644858/bubblesort-implementation
+     */
     // Do not change signature (function name, parameters)
     public static void bubbleSort(int[] data) {
 

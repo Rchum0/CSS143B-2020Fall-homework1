@@ -30,7 +30,7 @@ public class Problem2Test {
 
         for (int i = 0; i < input.length; i++) {
             Problem2.bubbleSort(input[i]);
-            //System.out.println(i);
+            //System.out.println(i);//print
             System.out.println("Sorted Array: " + Arrays.toString(input[i]));
         }
 

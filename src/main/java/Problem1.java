@@ -2,6 +2,12 @@
 
 public class Problem1 {
 
+    /**
+     * Here are some of the websites I referenced from.
+     * https://www.geeksforgeeks.org/binary-search/
+     * https://stackoverflow.com/questions/12517764/java-binarysearch
+     * https://stackabuse.com/binary-search-in-java/
+     */
     // Do not change signature (function name, parameters)
     public static int binarySearch(int[] data, int target) {
 
